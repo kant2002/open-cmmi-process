@@ -282,10 +282,12 @@ and the associated executable code, build files, and user documentation
 (associated entities) that have been assigned a unique identifier.
 
 **Example Work Products**
+
 1. Baselines
 2. Description of baselines
 
 **Subpractices**
+
 1. Obtain authorization from the CCB before creating or releasing
 baselines of configuration items.
 2. Create or release baselines only from configuration items in the
@@ -313,9 +315,11 @@ have on the work product, related work products, the budget, and the
 schedule.
 
 **Example Work Products**
+
 1. Change requests
 
-Subpractices
+**Subpractices**
+
 1. Initiate and record change requests in the change request database.
 2. Analyze the impact of changes and fixes proposed in change requests.
 
@@ -357,10 +361,12 @@ This control includes tracking the configuration of each configuration item,
 approving a new configuration if necessary, and updating the baseline.
 
 **Example Work Products**
+
 1. Revision history of configuration items
 2. Archives of baselines
 
 **Subpractices**
+
 1. Control changes to configuration items throughout the life of the
   product or service.
 2. Obtain appropriate authorization before changed configuration items
@@ -404,14 +410,16 @@ specific practices under this specific goal.
 #### SP 3.1 Establish Configuration Management Records 
 **Establish and maintain records describing configuration items.**
 
-*Example Work Products*
+**Example Work Products**
+
 1. Revision history of configuration items
 2. Change log
 3. Change request records
 4. Status of configuration items
 5. Differences between baselines
 
-*Subpractices*
+**Subpractices**
+
 1. Record configuration management actions in sufficient detail so the
   content and status of each configuration item is known and previous
   versions can be recovered.
@@ -452,11 +460,13 @@ Examples of audit types include the following:
 * Configuration management audits: Audits conducted to confirm that configuration
   management records and configuration items are complete, consistent, and accurate.
 
-*Example Work Products*
+**Example Work Products**
+
 1. Configuration audit results
 2. Action items
 
-*Subpractices*
+**Subpractices**
+
 1. Assess the integrity of baselines.
 2. Confirm that configuration management records correctly identify
   configuration items.
